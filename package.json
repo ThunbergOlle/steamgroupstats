@@ -1,0 +1,38 @@
+{
+  "name": "steam-group-stats",
+  "version": "1.0.0",
+  "description": "This module gets the stats of a steamgroup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunbergOlle/steamgroupstats.git"
+  },
+  "keywords": [
+    "steamgroupstats",
+    "steam",
+    "steam-group",
+    "steam-group-stats",
+    "node-steam",
+    "steamgroups",
+    "get stat of a steamgroup",
+    "get steamgoups",
+    "steamstats",
+    "steam-stats",
+    "get-group-stats",
+    "groupmembers",
+    "get-group-members"
+  ],
+  "author": "OlleThunberg <olle.thunberg03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThunbergOlle/steamgroupstats/issues"
+  },
+  "homepage": "https://github.com/ThunbergOlle/steamgroupstats#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "xml-to-json-promise": "0.0.3"
+  }
+}
